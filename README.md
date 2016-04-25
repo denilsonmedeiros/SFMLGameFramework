@@ -1,3 +1,2 @@
-# SFMLGameFramework
-SFML Game Framework
-d
+# Framework de jogos 2D
+
